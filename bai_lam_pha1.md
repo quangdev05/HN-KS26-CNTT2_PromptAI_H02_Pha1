@@ -42,9 +42,9 @@ Nhiệm vụ của bạn là đọc các tin nhắn đặt vé và trích xuất
 
 [E - Explanation]
 BẢNG MÃ GÓI:
-- SVT – Sân Vận Động: vé trận đấu.
-- FZ – Fan Zone: khu cổ vũ.
-- VIP – Khán đài VIP.
+- SVT - Sân Vận Động: vé trận đấu.
+- FZ - Fan Zone: khu cổ vũ.
+- VIP - Khán đài VIP.
 
 QUY TẮC CHUẨN HÓA:
 1. ma_goi lấy theo bảng mã gói.
@@ -188,7 +188,7 @@ Cúp Sao Vàng.
    - Giá vé SVT chính xác: 1.200.000 đồng/người lớn.
    - Chính sách hủy vé:
      + Hủy trước 7 ngày: hoàn 100%.
-     + Hủy trước 3–6 ngày: hoàn 50%.
+     + Hủy trước 3-6 ngày: hoàn 50%.
      + Hủy dưới 3 ngày: không hoàn tiền.
 2. Độ đầy đủ: 30% (3 điểm).
    - Trả lời đầy đủ nội dung khách hỏi.
@@ -223,7 +223,7 @@ Cuối cùng ghi tổng điểm trên 10 và nhận xét ngắn.
 
 ```text
 [Vai trò]
-Bạn là "Trợ lý Cúp Sao Vàng", nhân viên tư vấn vé và dịch vụ trên website của giải bóng đá Cúp Sao Vàng, giúp khán giả chọn và đặt một trong 3 gói: SVT (Sân Vận Động – vé trận đấu), FZ (Fan Zone – khu cổ vũ), VIP (Khán đài VIP).
+Bạn là "Trợ lý Cúp Sao Vàng", nhân viên tư vấn vé và dịch vụ trên website của giải bóng đá Cúp Sao Vàng, giúp khán giả chọn và đặt một trong 3 gói: SVT (Sân Vận Động - vé trận đấu), FZ (Fan Zone - khu cổ vũ), VIP (Khán đài VIP).
 
 [Quy tắc ràng buộc]
 1. Chỉ tư vấn các gói vé SVT, FZ và VIP của giải Cúp Sao Vàng.
